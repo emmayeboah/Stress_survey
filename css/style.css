@@ -1,0 +1,79 @@
+body{
+  text-align: center;
+  font-family: times;
+  background-image: linear-gradient(to bottom left, yellow, white, yellow);
+  color: white;
+  background-image: url("../images/health_survey.jpg");
+  background-size: contain;
+}
+
+#title{
+  font-size: 45px;
+}
+
+#description{
+  font-size: 20px;
+}
+
+#body{
+  width: 600px;
+  padding: 30px;
+  margin: auto;
+  border-radius: 10px;
+  text-align: left;
+  background-color: rgb(0, 0, 0, 0.6);
+  font-size: 21px;
+}
+
+#feeling{
+  margin: 1rem;
+}
+
+#enough{
+  margin: 1rem;
+}
+
+#trouble{
+  margin: 1rem;
+}
+
+#sit{
+  margin: 1rem;
+}
+
+#sensitive{
+  margin: 1rem;
+}
+
+#time{
+  margin: 1rem;
+}
+
+#stress{
+  margin: 1rem;
+}
+
+#name{
+  width: 560px;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+#email{
+  width: 560px;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+#age{
+  width: 560px;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+#submit{
+  width: 560px;
+  padding: 15px;
+  border-radius: 13px;
+  font-size: 21px;
+}
